@@ -349,10 +349,10 @@ O desenvolvimento de software moderno com metodologias ágeis organiza o trabalh
 
 ### 🎨 Exemplo Prático
 
-**Persona**: Maria, 32 anos, casada, professora
-**User Story**: "Como Maria, quero dividir as contas do mês com meu marido para que possamos organizar melhor nosso orçamento familiar."
-**Funcionalidade**: Sistema de divisão de gastos entre dois usuários
-**Requisitos**: RF01 - Cadastro de usuários, RF02 - Criação de grupos, RF03 - Lançamento de gastos
+**Persona**: Maria, 32 anos, casada, professora  
+**User Story**: "Como Maria, quero dividir as contas do mês com meu marido para que possamos organizar melhor nosso orçamento familiar."  
+**Funcionalidade**: Sistema de divisão de gastos entre dois usuários  
+**Requisitos**: RF01 - Cadastro de usuários, RF02 - Criação de grupos, RF03 - Lançamento de gastos  
 
 ---
 
