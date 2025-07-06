@@ -27,9 +27,13 @@ Este guia prático foi criado para ajudar estudantes, desenvolvedores iniciantes
 
 ## 🌟 Recomendações
 
-- Use o guia como referência durante todo o ciclo do seu projeto.
+- Use o guia como referência no início do seu projeto.
 - Compartilhe com colegas e equipes iniciantes.
 - Adapte os exemplos e templates conforme a realidade do seu time.
+
+## 📑 Guia online
+
+- Acesse o guia pelo link: [mini guia](https://alan-oliveir.github.io/mini-guia-fullstack/)
 
 ## 📄 Licença
 
