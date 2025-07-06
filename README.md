@@ -33,12 +33,17 @@ Este guia prático foi criado para ajudar estudantes, desenvolvedores iniciantes
 
 ## 📄 Licença
 
-MIT – Use, modifique e compartilhe livremente.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/mini-guia-fullstack/blob/main/LICENSE)  
+**Use, modifique e compartilhe livremente.**
 
 ---
 
+## Contato
+
 **Autor:** Alan Gonçalves  
 **Versão:** 2.1  
-**Agradecimentos:** Comunidade de desenvolvedores e LLMs pelo apoio e feedback.
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alan-oliveir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
 
 > ⭐ Se este guia te ajudou, deixe uma estrela no repositório!
