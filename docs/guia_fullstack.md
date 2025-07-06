@@ -22,21 +22,21 @@
 3. [Personas e User Stories](#3--personas-e-user-stories)
 4. [Requisitos e MVP](#4--requisitos-e-mvp)
 
-**🛠️ Organização e Ferramentas**
-5. [Organização de Equipe e Git](#5--organização-de-equipe-e-git)
-6. [Notion e Planejamento](#6--notion-e-planejamento)
-7. [Fase 0 – Pesquisa e Descoberta](#7--fase-0--pesquisa-e-descoberta)
+**🛠️ Organização e Ferramentas**  
+5. [Organização de Equipe e Git](#5--organização-de-equipe-e-git)  
+6. [Notion e Planejamento](#6--notion-e-planejamento)  
+7. [Fase 0 – Pesquisa e Descoberta](#7--fase-0--pesquisa-e-descoberta)  
 
-**⚡ Desenvolvimento**
-8. [Arquitetura e Tecnologias](#8--arquitetura-e-tecnologias)
-9. [Testes e Qualidade](#9--testes-e-qualidade)
-10. [Templates e Recursos Reutilizáveis](#10--templates-e-recursos-reutilizáveis)
+**⚡ Desenvolvimento**  
+8. [Arquitetura e Tecnologias](#8--arquitetura-e-tecnologias)  
+9. [Testes e Qualidade](#9--testes-e-qualidade)  
+10. [Templates e Recursos Reutilizáveis](#10--templates-e-recursos-reutilizáveis)  
 
-**🎯 Finalização**
-11. [Funcionalidades que Agregam Valor](#11--funcionalidades-que-agregam-valor)
-12. [Apresentação e Validação](#12--apresentação-e-validação)
-13. [FAQ - Perguntas Frequentes](#--faq---perguntas-frequentes)
-14. [Lições Aprendidas e Recomendações Finais](#14--lições-aprendidas-e-recomendações-finais)
+**🎯 Finalização**  
+11. [Funcionalidades que Agregam Valor](#11--funcionalidades-que-agregam-valor)  
+12. [Apresentação e Validação](#12--apresentação-e-validação)  
+13. [FAQ - Perguntas Frequentes](#--faq---perguntas-frequentes)  
+14. [Lições Aprendidas e Recomendações Finais](#14--lições-aprendidas-e-recomendações-finais)  
 
 ---
 
@@ -973,10 +973,7 @@ Após dominar este guia, considere estudar:
 - **Deploy:** Vercel (frontend) ou Railway (fullstack)
 
 **Para Aprender Mais:**
-- **Cursos:** FreeCodeCamp, Coursera, Udemy
 - **Documentação:** MDN (web), React Docs, Node.js Docs
-- **Comunidades:** Stack Overflow, Reddit r/webdev, Discord de programação
-- **YouTube:** Rocketseat, Código Fonte TV, Programador BR
 
 **Livros Recomendados (iniciantes):**
 - "Eloquent JavaScript" (online grátis)
@@ -996,4 +993,4 @@ Após dominar este guia, considere estudar:
 **📄 Licença:** MIT - Use, modifique e compartilhe livremente  
 **📋 Versão:** 2.1 - Guia expandido com FAQ e melhorias para iniciantes
 
-**🙏 Agradecimentos:** Este guia foi criado com apoio de LLMs e feedback da comunidade de desenvolvedores. Obrigado a todos que contribuíram com dúvidas, sugestões e melhorias!
+**🙏 Agradecimentos:** Este guia foi criado com apoio de LLMs.
