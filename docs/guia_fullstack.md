@@ -17,22 +17,26 @@
 ## 📑 Índice
 
 **🎯 Planejamento e Definição**
+
 1. [Início do Projeto](#1--início-do-projeto)
 2. [Fases do Desenvolvimento de Software](#2--fases-do-desenvolvimento-de-software)
 3. [Personas e User Stories](#3--personas-e-user-stories)
 4. [Requisitos e MVP](#4--requisitos-e-mvp)
 
 **🛠️ Organização e Ferramentas**  
+
 5. [Organização de Equipe e Git](#5--organização-de-equipe-e-git)  
 6. [Notion e Planejamento](#6--notion-e-planejamento)  
 7. [Fase 0 – Pesquisa e Descoberta](#7--fase-0--pesquisa-e-descoberta)  
 
 **⚡ Desenvolvimento**  
+
 8. [Arquitetura e Tecnologias](#8--arquitetura-e-tecnologias)  
 9. [Testes e Qualidade](#9--testes-e-qualidade)  
 10. [Templates e Recursos Reutilizáveis](#10--templates-e-recursos-reutilizáveis)  
 
 **🎯 Finalização**  
+
 11. [Funcionalidades que Agregam Valor](#11--funcionalidades-que-agregam-valor)  
 12. [Apresentação e Validação](#12--apresentação-e-validação)  
 13. [FAQ - Perguntas Frequentes](#--faq---perguntas-frequentes)  
@@ -167,20 +171,6 @@ O desenvolvimento de software moderno com metodologias ágeis organiza o trabalh
 - **Testes de Performance**: verificação de velocidade e responsividade
 - **Testes de Segurança**: validação de vulnerabilidades
 
-**Tipos de Teste por Fase:**
-
-📊 Pirâmide de Testes Ágeis
-
-```
-        Manual Testing
-       /              \
-  E2E Automated Tests
-     /              \
-  Integration Tests
-   /              \
-    Unit Tests
-```
-
 **Quem participa:** QA engineers, desenvolvedores, usuários finais
 
 ### 🚀 Fase 5: Deploy e Entrega (DevOps)
@@ -220,13 +210,13 @@ O desenvolvimento de software moderno com metodologias ágeis organiza o trabalh
 
 ### 🔄 Ciclo Ágil Completo
 
-1. Discovery (Sprint 0) ↓
-2. Design & Arquitetura ↓
-3. Desenvolvimento (Sprints 1-N) ↓
-4. Testes (Contínuo) ↓
-5. Deploy (Contínuo) ↓
-6. Monitoramento ↓
-7. Feedback Loop (volta para novas funcionalidades) ←
+1. Discovery (Sprint 0) 
+2. Design & Arquitetura 
+3. Desenvolvimento (Sprints 1-N) 
+4. Testes (Contínuo) 
+5. Deploy (Contínuo) 
+6. Monitoramento 
+7. Feedback Loop (volta para novas funcionalidades) 
 
 ### 📚 Artefatos por Fase
 
@@ -260,12 +250,12 @@ O desenvolvimento de software moderno com metodologias ágeis organiza o trabalh
 
 ### 🔧 Ferramentas por Fase
 
-**Planejamento:** Jira, Trello, Notion, Miro
-**Design:** Figma, Sketch, Adobe XD, InVision
-**Desenvolvimento:** VSCode, Git, GitHub, Docker
-**Testes:** Jest, Cypress, Postman, Selenium
-**Deploy:** Jenkins, GitHub Actions, Vercel, AWS
-**Monitoramento:** Google Analytics, Sentry, New Relic
+**Planejamento:** Jira, Trello, Notion, Miro  
+**Design:** Figma, Sketch, Adobe XD, InVision  
+**Desenvolvimento:** VSCode, Git, GitHub, Docker  
+**Testes:** Jest, Cypress, Postman, JUnit  
+**Deploy:** Jenkins, GitHub Actions, Vercel, AWS  
+**Monitoramento:** Google Analytics, Sentry, New Relic  
 
 ---
 
@@ -664,14 +654,6 @@ Base de Dados
 
 ### 🎯 Pirâmide de Testes
 
-```
-        UI Tests (Poucos)
-       /              \
- Integration Tests (Alguns)
-     /              \
-    Unit Tests (Muitos)
-```
-
 **Testes Unitários** (base da pirâmide)
 
 - Testam funções isoladas
@@ -991,6 +973,6 @@ Após dominar este guia, considere estudar:
 **👨‍💻 Autor:** Alan Gonçalves  
 **📅 Projeto:** Fullstack 2025  
 **📄 Licença:** MIT - Use, modifique e compartilhe livremente  
-**📋 Versão:** 2.1 - Guia expandido com FAQ e melhorias para iniciantes
+**📋 Versão:** 2.2 - Guia expandido com FAQ e melhorias para iniciantes
 
 **🙏 Agradecimentos:** Este guia foi criado com apoio de LLMs.
