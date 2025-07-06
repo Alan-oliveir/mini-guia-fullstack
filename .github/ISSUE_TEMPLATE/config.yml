@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Diretrizes de contribuição
+    url: https://github.com/Alan-oliveir/mini-guia-fullstack/blob/main/CONTRIBUTING.md
+    about: Leia as diretrizes antes de abrir uma issue.
