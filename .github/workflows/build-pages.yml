@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy GitHub Pages
 
 on:
   push:
@@ -10,14 +10,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Copy and rename guide
-        run: |
-          mkdir -p docs
-          cp guia_fullstack.md docs/README.md
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/README.md
-          git commit -m 'Atualiza docs/README.md a partir de guia_fullstack.md' || echo "Nada para commitar"
-          git push
