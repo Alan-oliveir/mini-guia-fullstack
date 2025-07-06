@@ -20,7 +20,7 @@ Este guia prático foi criado para ajudar estudantes, desenvolvedores iniciantes
 
 ## 🛠️ Como usar
 
-1. **Leia o guia completo:** [guia_fullstack.md](https://github.com/Alan-oliveir/mini-guia-fullstack/blob/main/docs/guia_fullstack.md)
+1. **Leia o guia completo:** [mini guia](https://github.com/Alan-oliveir/mini-guia-fullstack/blob/main/docs/README.md)
 2. **Aproveite os templates:** Copie e adapte para seu projeto.
 3. **Siga as dicas práticas:** Desde o planejamento até a apresentação final.
 4. **Contribua:** Sugestões, correções e melhorias são bem-vindas via issues ou pull requests.
@@ -33,7 +33,7 @@ Este guia prático foi criado para ajudar estudantes, desenvolvedores iniciantes
 
 ## 📑 Guia online
 
-- Acesse o guia pelo link: [mini guia](https://alan-oliveir.github.io/mini-guia-fullstack/)
+- Acesse o site com o guia pelo seguinte link: [mini guia](https://alan-oliveir.github.io/mini-guia-fullstack/)
 
 ## 📄 Licença
 
